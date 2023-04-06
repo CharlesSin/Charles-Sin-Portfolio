@@ -1,6 +1,6 @@
-# Week 1 - The F2E 活動網站設計
+# Charles Sin C.Y Personal Portfolio
 
-The F2E 4th 視差滾動活動網站
+Highly motivated and very passionate Full Stack Developer with two years of experience in Typescript, React js, Next js, Firebase, Tailwind CSS, Material UI, Node js, Express js, MongoDB
 
 ## Screenshot
 ![alt cover](https://github.com/CharlesSin/Charles-Sin-Portfolio/blob/master/public/images/cover.jpg)
