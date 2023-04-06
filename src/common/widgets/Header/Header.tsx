@@ -55,7 +55,7 @@ const Header = () => {
             </motion.a>
           ))}
 
-          <Link href="/" target="__blank">
+          <Link href="https://charles-sin.vercel.app/images/model/resume.pdf" target="__blank">
             {" "}
             <Button> Resume </Button>{" "}
           </Link>
