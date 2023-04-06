@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap: https://charles-sin.vercel.app/sitemap.xml

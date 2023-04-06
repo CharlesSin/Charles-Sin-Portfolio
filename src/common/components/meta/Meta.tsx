@@ -4,6 +4,7 @@ const Meta = () => {
       <link rel="icon" type="image/x-icon" href="/favicon.ico"></link>
       <link rel="canonical" href="https://charles-sin.vercel.app/"></link>
       <link rel="pingback" href="https://charles-sin.vercel.app/"></link>
+      <link rel="alternate" href="https://charles-sin.vercel.app/" hrefLang="en-us" />
 
       <title> Charles Sin.C.Y : Portfolio </title>
 
