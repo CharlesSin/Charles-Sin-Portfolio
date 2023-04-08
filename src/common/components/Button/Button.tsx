@@ -2,7 +2,6 @@
 
 import React, { FC } from "react";
 import Link from "next/link";
-//
 import twFocusClass from "@utils/twFocusClass";
 import { cx } from "@config/constants";
 import { ButtonProps } from "@config/types";

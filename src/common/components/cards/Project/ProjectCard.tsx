@@ -2,11 +2,9 @@ import React from "react";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import Image from "next/legacy/image";
-//
 import { RiFilePaperLine } from "react-icons/ri";
 import { HiOutlineExternalLink } from "react-icons/hi";
 import { FiGithub } from "react-icons/fi";
-//
 import { motionStep } from "@config/motion";
 import { ProjectTypes } from "@config/types";
 

@@ -4,7 +4,6 @@ import React, { useState, useRef, useEffect } from "react";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import { IoMdArrowDropright } from "react-icons/io";
-//
 import { worked_data } from "../config/constants";
 import { WorkedTypes } from "../config/types";
 import { cx } from "@config/constants";
