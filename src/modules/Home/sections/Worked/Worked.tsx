@@ -7,10 +7,10 @@ import { fadeLeft, motionStep } from "@config/motion";
 const Worked = () => {
   return (
     <section id="experience">
-      <motion.h1 variants={fadeLeft} {...motionStep} className="flex items-center gap-2 text-3xl font-medium text-slate-300">
+      <motion.h2 variants={fadeLeft} {...motionStep} className="flex items-center gap-2 text-3xl font-medium text-slate-300">
         <span className="text-sky-400 font-mono">02. </span>
         Where I have worked?
-      </motion.h1>
+      </motion.h2>
 
       <div className="mt-14">
         <Content />

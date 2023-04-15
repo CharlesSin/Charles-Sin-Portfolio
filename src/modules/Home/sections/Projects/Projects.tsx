@@ -10,10 +10,10 @@ import { ProjectTypes } from "@config/types";
 const Projects = () => {
   return (
     <section id="works">
-      <motion.h1 variants={fadeLeft} {...motionStep} className="flex items-center gap-2 text-3xl font-medium text-slate-300 mb-12">
+      <motion.h2 variants={fadeLeft} {...motionStep} className="flex items-center gap-2 text-3xl font-medium text-slate-300 mb-12">
         <span className="text-sky-400 font-mono">03. </span>
         Some Things I’ve Built
-      </motion.h1>
+      </motion.h2>
 
       <div className="space-y-20">
         {projects
