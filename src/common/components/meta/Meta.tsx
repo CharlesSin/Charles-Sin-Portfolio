@@ -8,9 +8,8 @@ const Meta = () => {
       <link rel="pingback" href="https://charles-sin.vercel.app"></link>
       <link rel="alternate" href="https://charles-sin.vercel.app" hrefLang="en-us"></link>
 
-      <title> Charles Sin.C.Y : Portfolio </title>
-
-      <title lang="en" />
+      <title lang="en"> Charles Sin.C.Y : Portfolio </title>
+      
       <meta name="title" content="Charles Sin.C.Y : Portfolio" />
       <meta
         name="description"
