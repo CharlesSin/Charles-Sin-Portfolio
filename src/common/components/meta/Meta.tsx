@@ -10,6 +10,8 @@ const Meta = () => {
 
       <title> Charles Sin.C.Y : Portfolio </title>
 
+      <title lang="en" />
+      <meta name="title" content="Charles Sin.C.Y : Portfolio" />
       <meta
         name="description"
         content="Highly motivated and very passionate Full Stack Developer with two years of experience in Typescript, React js, Next js, Firebase, Tailwind CSS, Node, MongoDB"
@@ -36,7 +38,7 @@ const Meta = () => {
       <meta name="twitter:creator" content="@Charles_Sin" />
       <meta
         name="twitter:description"
-        content="Highly motivated and very passionate Full Stack Developer with three years of experience in Typescript, React js, Next js, Firebase, Tailwind CSS, Material UI, Node js, Express js, MongoDB"
+        content="Highly motivated and very passionate Full Stack Developer with two years of experience in Typescript, React js, Next js, Firebase, Tailwind CSS, Node, MongoDB"
       />
       <meta name="twitter:image" content="https://charles-sin.vercel.app/images/cover.jpg" />
     </>
