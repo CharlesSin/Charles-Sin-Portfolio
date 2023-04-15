@@ -57,7 +57,7 @@ const Content = () => {
                   {" "}
                   @{company}{" "}
                 </Link>
-              </h1>
+              </h2>
               <p className="text-slate-400 font-medium mt-1"> {deadline} </p>
             </motion.div>
 
