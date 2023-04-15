@@ -51,7 +51,7 @@ const Content = () => {
         {worked_data.map(({ title, url, company, deadline, description }: WorkedTypes, i: number) => (
           <div key={i}>
             <motion.div variants={worked_1} {...motionStep}>
-              <h1 className="text-xl font-medium text-slate-300">
+              <h2 className="text-xl font-medium text-slate-300">
                 {title}
                 <Link target="_blank" href={url} className="text-sky-300 border-b border-b-sky-300 border-dotted">
                   {" "}

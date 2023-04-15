@@ -71,7 +71,7 @@ const ProjectCard = ({ live, thumnail, code, title, description, tech }: Project
           </div>
         </div>
 
-        <h1 className="text-xl font-medium mb-1 text-slate-200"> {title} </h1>
+        <h2 className="text-xl font-medium mb-1 text-slate-200"> {title} </h2>
         <p className="text-slate-400"> {description} </p>
 
         <div className="flex text-slate-300 mt-7 gap-x-4 flex-wrap">

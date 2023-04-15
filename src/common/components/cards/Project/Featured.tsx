@@ -34,7 +34,7 @@ const Featured = ({ secondary, live, thumnail, code, title, description, tech }:
       <div className={cx("col-span-12 sm:col-span-5 text-right sm:absolute sm:left-[50%]", secondary && "!relative z-[100] !left-0 !text-start sm:w-[120%]")}>
         <div>
           <p className="text-sky-400"> Featured </p>
-          <h1 className="text-3xl font-medium text-slate-300"> {title} </h1>
+          <h2 className="text-3xl font-medium text-slate-300"> {title} </h2>
 
           <div className="my-6 p-6 bg-slate-800 text-slate-300 shadow-xl rounded-xl">
             <p> {description && description} </p>
