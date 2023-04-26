@@ -2,12 +2,12 @@
 
 Highly motivated and very passionate Full Stack Developer with two years of experience in Typescript, React js, Next js, Firebase, Tailwind CSS, Material UI, Node js, Express js, MongoDB
 
-## Screenshot
-![alt cover](https://github.com/CharlesSin/Charles-Sin-Portfolio/blob/master/public/images/cover.jpg)
-
 ## Demo
 
 [Demo](https://charles-sin.vercel.app/)
+
+## Screenshot
+![alt cover](https://github.com/CharlesSin/Charles-Sin-Portfolio/blob/master/public/images/cover.jpg)
 
 ## Introduction
 
