@@ -12,7 +12,7 @@ const Projects = () => {
     <section id="works">
       <motion.h2 variants={fadeLeft} {...motionStep} className="flex items-center gap-2 text-3xl font-medium text-slate-300 mb-12">
         <span className="text-sky-400 font-mono">03. </span>
-        Some Things I’ve Built
+        我的作品
       </motion.h2>
 
       <div className="space-y-20">

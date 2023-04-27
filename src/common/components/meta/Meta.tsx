@@ -6,40 +6,30 @@ const Meta = () => {
       <link rel="apple-touch-icon" sizes="96x96" href="./images/favicon96.ico"></link>
       <link rel="canonical" href="https://charles-sin.vercel.app"></link>
       <link rel="pingback" href="https://charles-sin.vercel.app"></link>
-      <link rel="alternate" href="https://charles-sin.vercel.app" hrefLang="en-us"></link>
+      <link rel="alternate" href="https://charles-sin.vercel.app" hrefLang="zh-Hans"></link>
 
-      <title lang="en"> Charles Sin.C.Y : Portfolio </title>
+      <title lang="zh-Hans"> 查尔斯。辛 | 个人作品集 </title>
+
+      <meta name="title" content="查尔斯。辛 | 个人作品集" />
+      <meta name="description" content="非常积极和非常热情全栈开发人员, 在 HTML、CSS、JS、Node、React、Next、Tailwindcss、Typescript、Firebase、MongoDB 方面拥有两年经验" />
+      <meta name="keywords" content="个人作品集,网页开发公司,网页开发服务,网站开发公司,台湾网站开发,台湾网页开发,公司,服务,台湾" />
       
-      <meta name="title" content="Charles Sin.C.Y : Portfolio" />
-      <meta
-        name="description"
-        content="Highly motivated and very passionate Full Stack Developer with two years of experience in Typescript, React js, Next js, Firebase, Tailwind CSS, Node, MongoDB"
-      />
-      <meta
-        name="keywords"
-        content="Web Development Company, Web Development Services, Website Development Company, Website Development Taiwan, Web Development Taiwan, Company, Services, Taiwan"
-      />
-      <meta property="og:site_name" content="Charles Sin.C.Y" />
-      <meta property="og:title" content="Charles Sin.C.Y | Portfolio" />
-      <meta
-        property="og:description"
-        content="Web Development Company, Web Development Services, Website Development Company, Website Development Taiwan, Web Development Taiwan, Company, Services, Taiwan"
-      />
+      <meta property="og:site_name" content="查尔斯。辛" />
+      <meta property="og:title" content="查尔斯。辛 | 个人作品集" />
+      <meta property="og:description" content="非常积极和非常热情全栈开发人员, 在 HTML、CSS、JS、Node、React、Next、Tailwindcss、Typescript、Firebase、MongoDB 方面拥有两年经验" />
+      <meta property="og:keywords" content="个人作品集,网页开发公司,网页开发服务,网站开发公司,台湾网站开发,台湾网页开发,公司,服务,台湾" />
       <meta property="og:url" content="https://charles-sin.vercel.app" />
-      <meta property="og:image" content="https://charles-sin.vercel.app/images/cover.jpg" />
+      <meta property="og:image" content="https://charles-sin.vercel.app/images/cover-zh.jpg" />
       <meta property="og:type" content="website" />
 
       <meta name="google-site-verification" content="eP82dEE--Mtf-ypVN9QO-B9kd-C5uLVNT_Ce_bdha24" />
-      <meta property="article:publisher" content="Charles" />
+      <meta property="article:publisher" content="查尔斯。辛" />
 
       <meta name="twitter:card" content="summary" />
-      <meta name="twitter:site" content="@Charles_Sin" />
-      <meta name="twitter:creator" content="@Charles_Sin" />
-      <meta
-        name="twitter:description"
-        content="Highly motivated and very passionate Full Stack Developer with two years of experience in Typescript, React js, Next js, Firebase, Tailwind CSS, Node, MongoDB"
-      />
-      <meta name="twitter:image" content="https://charles-sin.vercel.app/images/cover.jpg" />
+      <meta name="twitter:site" content="@查尔斯。辛" />
+      <meta name="twitter:creator" content="@查尔斯。辛" />
+      <meta name="twitter:description" content="非常积极和非常热情全栈开发人员, 在 HTML、CSS、JS、Node、React、Next、Tailwindcss、Typescript、Firebase、MongoDB 方面拥有两年经验" />
+      <meta name="twitter:image" content="https://charles-sin.vercel.app/images/cover-zh.jpg" />
     </>
   );
 };

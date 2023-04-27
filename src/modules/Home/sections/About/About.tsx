@@ -11,7 +11,7 @@ const About = () => {
     <section id="about">
       <motion.h2 variants={fadeLeft} {...motionStep} className="flex items-center gap-2 text-3xl font-medium text-slate-300">
         <span className="text-sky-400 font-mono">01. </span>
-        About me
+        关于我
       </motion.h2>
 
       <div className="grid grid-cols-1 lg:grid-cols-5 gap-x-20">

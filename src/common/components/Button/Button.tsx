@@ -61,7 +61,7 @@ const Button: FC<ButtonProps> = ({
   return (
     <button disabled={disabled || loading} className={cx(CLASSES, outlined && OUTLINED_CLASS, secondary && SECONDAY_CLASS)} onClick={onClick} type={type}>
       {loading && _renderLoading()}
-      {children || `This is Button`}
+      {children || `按钮`}
     </button>
   );
 };
