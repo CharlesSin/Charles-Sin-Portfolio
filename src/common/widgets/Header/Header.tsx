@@ -41,8 +41,8 @@ const Header = () => {
     <header className="top-0 w-full z-50 relative py-[30px] max-w-[94%] mx-auto md:block hidden right-0 left-0">
       <div className="flex items-center justify-between">
         <Link href="/" className="flex">
-          <AnimatedTextCharacter text="C" className="text-4xl font-semibold text-sky-700" />
-          <AnimatedTextCharacter text="harles" className="text-4xl text-slate-700/80" />
+          <AnimatedTextCharacter text="查尔斯" className="text-4xl font-semibold text-sky-700" />
+          <AnimatedTextCharacter text="。辛" className="text-4xl text-slate-700/80" />
         </Link>
 
         <motion.ul variants={container} initial="hidden" animate="visible" className="__navright">
@@ -57,7 +57,7 @@ const Header = () => {
 
           <Link href="https://charles-sin.vercel.app/images/model/resume.pdf" target="__blank">
             {" "}
-            <Button> Resume </Button>{" "}
+            <Button> 个人履历表 </Button>{" "}
           </Link>
         </motion.ul>
       </div>

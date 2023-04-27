@@ -7,7 +7,7 @@ Highly motivated and very passionate Full Stack Developer with two years of expe
 [Demo](https://charles-sin.vercel.app/)
 
 ## Screenshot
-![alt cover](https://github.com/CharlesSin/Charles-Sin-Portfolio/blob/master/public/images/cover.jpg)
+![alt cover](https://github.com/CharlesSin/Charles-Sin-Portfolio/blob/master/public/images/cover-zh.jpg)
 
 ## Introduction
 

@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="text-center text-sm text-slate-400">
         <p>
           {" "}
-          Built & Designed by <span className="text-sky-400">@Charles Sin</span>{" "}
+          作品集模板 版权所有 <span className="text-sky-400">@查尔斯。辛</span>{" "}
         </p>
       </div>
     </section>
