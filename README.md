@@ -4,7 +4,7 @@
 
 ## 范例链接
 
-[Demo](https://chaersi.vercel.app/)
+[范例链接](https://chaersi.vercel.app/)
 
 ## 封面图片
 
