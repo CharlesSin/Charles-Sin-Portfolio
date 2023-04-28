@@ -1,28 +1,29 @@
-# Charles Sin C.Y Personal Portfolio
+# 查尔斯。辛 - 个人作品集
 
-Highly motivated and very passionate Full Stack Developer with two years of experience in Typescript, React js, Next js, Firebase, Tailwind CSS, Material UI, Node js, Express js, MongoDB
+非常积极和非常热情全栈开发人员, 在 HTML、CSS、JS、Node、React、Next、Tailwindcss、Typescript、Firebase、MongoDB 方面拥有两年经验
 
-## Demo
+## 范例链接
 
 [Demo](https://chaersi.vercel.app/)
 
-## Screenshot
-![alt cover](https://github.com/CharlesSin/Charles-Sin-Portfolio/blob/master/public/images/cover-zh.jpg)
+## 封面图片
 
-## Introduction
+![alt cover](https://github.com/CharlesSin/Charles-Sin-Portfolio/blob/zh-CN/public/images/cover-zh.jpg)
 
-Personal Website V2 Second iteration of my personal website. Designed and developed with a conscious effort to avoid Personal Website V1 Second iteration of my personal website. and Also I add Blog section
+## 简介
 
-## Use Technology & Library
+个人网站 v2 我个人网站的第二次迭代。 有意识地设计和开发以避免个人网站 v1 遇到的问题, 我的个人网站的第二次迭代。 我还添加了博客部分
+
+## 使用技术和第三方套件
 
 - Next js 13
 - Tailwind CSS
 - Express js
 - MongoDB
 
-## Features
+## 特征
 
-- [x] Mouse scrolling triggers dynamic effects
-- [x] Mouse movement position direction produces a parallax effect
-- [x] Determining that the device only uses portrait orientation to browse the screen
-- [x] Responsive layout design
+- [x] 展示个人作品集
+- [x] 鼠标移动位置方向产生视差效果
+- [x] 确定设备仅使用纵向浏览屏幕
+- [x] 响应式 UI 设计
