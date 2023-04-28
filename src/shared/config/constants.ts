@@ -14,7 +14,7 @@ export const projects: ProjectTypes[] = [
     description: "个人网站 v2 我个人网站的第二次迭代。 有意识地设计和开发以避免个人网站 v1 遇到的问题, 我的个人网站的第二次迭代。 我还添加了博客部分",
     tech: ["Next js 13", "Tailwind CSS", "Express js", "MongoDB"],
     code: "https://github.com/CharlesSin/Charles-Sin-Portfolio",
-    live: "https://charles-sin.vercel.app/",
+    live: "https://chaersi.vercel.app/",
     thumnail: "portfolio-v2.jpg",
     featured: true,
   },
