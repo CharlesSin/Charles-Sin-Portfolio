@@ -5,7 +5,7 @@ const GetInTouch = () => {
   return (
     <section id="contact" className="text-center my-4">
       <h2 className="flex items-center gap-2 text-md justify-center font-normal text-sky-400">
-        <span className=" font-mono">05. </span>
+        <span className=" font-mono">04. </span>
         What next?
       </h2>
 
