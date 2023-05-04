@@ -4,9 +4,9 @@ Highly motivated and very passionate Full Stack Developer with two years of expe
 
 ## Demo
 
-[Demo](https://charles-sin.vercel.app/)
+[Charles Portfolio](https://charles-sin.vercel.app/)
 
-[Demo zh-CN](https://chaersi.vercel.app/)
+[查尔斯个人作品集](https://chaersi.vercel.app/)
 
 ## Screenshot
 

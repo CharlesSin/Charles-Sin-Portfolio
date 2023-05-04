@@ -20,16 +20,6 @@ export const projects: ProjectTypes[] = [
     featured: true,
   },
   {
-    title: "Portfolio website Chinese Version",
-    description:
-      "Personal Website V2 Second iteration of my personal website. Designed and developed with a conscious effort to avoid Personal Website V1 Second iteration of my personal website. and Also I add Blog section",
-    tech: ["Next js 13", "Tailwind CSS", "Express js", "MongoDB"],
-    code: "https://github.com/CharlesSin/Charles-Sin-Portfolio/tree/zh-CN",
-    live: "https://chaersi.vercel.app/",
-    thumnail: "portfolio-v2-cover-zh.jpg",
-    featured: true,
-  },
-  {
     title: "The F2E 4th 1st week Event",
     description: "Implement parallax scrolling interactive website through pure HTML, CSS, JavaScript, and bring a special visual experience through mouse scrolling.",
     tech: ["ScrollTrigger", "CSS Animations", "Font Awesome"],
