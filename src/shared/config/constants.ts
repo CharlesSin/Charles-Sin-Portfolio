@@ -19,15 +19,6 @@ export const projects: ProjectTypes[] = [
     featured: true,
   },
   {
-    title: "个人作品集网站 (英文版本)",
-    description: "个人网站 v2 我个人网站的第二次迭代。 有意识地设计和开发以避免个人网站 v1 遇到的问题, 我的个人网站的第二次迭代。 我还添加了博客部分",
-    tech: ["Next js 13", "Tailwind CSS", "Express js", "MongoDB"],
-    code: "https://github.com/CharlesSin/Charles-Sin-Portfolio",
-    live: "https://charles-sin.vercel.app/",
-    thumnail: "portfolio-v2-en.jpg",
-    featured: true,
-  },
-  {
     title: "前端修練精神時光屋 - 第一周活动",
     description: "通过纯HTML、CSS、JavaScript实现视差滚动交互网站, 通过鼠标滚动带来特殊的视觉体验。",
     tech: ["ScrollTrigger", "CSS Animations", "Font Awesome"],

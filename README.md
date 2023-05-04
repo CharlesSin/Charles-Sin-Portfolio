@@ -4,7 +4,9 @@
 
 ## 范例链接
 
-[范例链接](https://chaersi.vercel.app/)
+[Charles Portfolio](https://charles-sin.vercel.app/)
+
+[查尔斯个人作品集](https://chaersi.vercel.app/)
 
 ## 封面图片
 
