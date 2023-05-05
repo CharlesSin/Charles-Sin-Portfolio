@@ -10,6 +10,15 @@ export const navData = ["关于我", "经验", "作品", "联系"];
 // project data
 export const projects: ProjectTypes[] = [
   {
+    title: "财务预测仪表板",
+    description: "具有机器学习预测的 MERN 财务仪表板应用程序",
+    tech: ["MongoDB", "Expressjs", "React", "Nodejs", "Typescript"],
+    code: "https://github.com/CharlesSin/Finance-App",
+    live: "https://charles-finance-app.netlify.app/",
+    thumnail: "finance-dashboard.jpg",
+    featured: true,
+  },
+  {
     title: "个人作品集网站",
     description: "个人网站 v2 我个人网站的第二次迭代。 有意识地设计和开发以避免个人网站 v1 遇到的问题, 我的个人网站的第二次迭代。 我还添加了博客部分",
     tech: ["Next js 13", "Tailwind CSS", "Express js", "MongoDB"],
@@ -25,7 +34,7 @@ export const projects: ProjectTypes[] = [
     code: "https://github.com/CharlesSin/2022-THE-F2E-WeekOne",
     live: "https://2022-the-f2e.netlify.app",
     thumnail: "thef2e.jpg",
-    featured: true,
+    featured: false,
   },
   {
     title: "前端修練精神時光屋 - 第二周活动",
@@ -34,7 +43,7 @@ export const projects: ProjectTypes[] = [
     code: "https://github.com/CharlesSin/2022-THE-F2E-WeekTwo",
     live: "https://2022-the-f2e-week2.netlify.app/",
     thumnail: "thef2e-week2.jpg",
-    featured: true,
+    featured: false,
   },
   {
     title: "前端修練精神時光屋 - 第三周活动",
@@ -43,7 +52,7 @@ export const projects: ProjectTypes[] = [
     code: "https://github.com/CharlesSin/2022-THE-F2E-WeekThree",
     live: "https://2022-the-f2e-week3.netlify.app/",
     thumnail: "thef2e-week3.jpg",
-    featured: true,
+    featured: false,
   },
   {
     title: "运输 SPA 网站",
