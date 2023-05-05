@@ -15,7 +15,7 @@ export const projects: ProjectTypes[] = [
     tech: ["MongoDB", "Expressjs", "React", "Nodejs", "Typescript"],
     code: "https://github.com/CharlesSin/Finance-App",
     live: "https://charles-finance-app.netlify.app/",
-    thumnail: "",
+    thumnail: "finance-dashboard.jpg",
     featured: true,
   },
   {
