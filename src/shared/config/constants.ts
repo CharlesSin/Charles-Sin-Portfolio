@@ -10,6 +10,15 @@ export const navData = ["About", "Experience", "Works", "Contact"];
 // project data
 export const projects: ProjectTypes[] = [
   {
+    title: "Finance Dashboard",
+    description: "Build a MERN Finance Dashboard App that has Machine Learning Predictions",
+    tech: ["MongoDB", "Expressjs", "React", "Nodejs", "Typescript"],
+    code: "https://github.com/CharlesSin/Finance-App",
+    live: "https://charles-finance-app.netlify.app/",
+    thumnail: "",
+    featured: true,
+  },
+  {
     title: "Portfolio website",
     description:
       "Personal Website V2 Second iteration of my personal website. Designed and developed with a conscious effort to avoid Personal Website V1 Second iteration of my personal website. and Also I add Blog section",
@@ -26,7 +35,7 @@ export const projects: ProjectTypes[] = [
     code: "https://github.com/CharlesSin/2022-THE-F2E-WeekOne",
     live: "https://2022-the-f2e.netlify.app",
     thumnail: "thef2e.jpg",
-    featured: true,
+    featured: false,
   },
   {
     title: "The F2E 4th 2nd week Event",
@@ -35,7 +44,7 @@ export const projects: ProjectTypes[] = [
     code: "https://github.com/CharlesSin/2022-THE-F2E-WeekTwo",
     live: "https://2022-the-f2e-week2.netlify.app",
     thumnail: "thef2e-week2.jpg",
-    featured: true,
+    featured: false,
   },
   {
     title: "The F2E 4th 3rd week Event",
@@ -44,7 +53,7 @@ export const projects: ProjectTypes[] = [
     code: "https://github.com/CharlesSin/2022-THE-F2E-WeekThree",
     live: "https://2022-the-f2e-week3.netlify.app/",
     thumnail: "thef2e-week3.jpg",
-    featured: true,
+    featured: false,
   },
   {
     title: "Transportation SPA Website",
