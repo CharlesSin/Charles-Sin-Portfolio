@@ -19,10 +19,15 @@ const Meta = () => {
         name="keywords"
         content="Web Development Company, Web Development Services, Website Development Company, Website Development Taiwan, Web Development Taiwan, Company, Services, Taiwan"
       />
+
       <meta property="og:site_name" content="Charles Sin.C.Y" />
       <meta property="og:title" content="Charles Sin.C.Y | Portfolio" />
       <meta
         property="og:description"
+        content="Highly motivated and very passionate Full Stack Developer with two years of experience in Typescript, React js, Next js, Firebase, Tailwind CSS, Node, MongoDB"
+      />
+      <meta
+        property="og:keywords"
         content="Web Development Company, Web Development Services, Website Development Company, Website Development Taiwan, Web Development Taiwan, Company, Services, Taiwan"
       />
       <meta property="og:url" content="https://charles-sin.vercel.app" />
