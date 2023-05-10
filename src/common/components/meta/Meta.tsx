@@ -2,8 +2,8 @@ const Meta = () => {
   return (
     <>
       <link rel="icon" type="image/x-icon" href="/favicon.ico"></link>
-      <link rel="apple-touch-icon" sizes="32x32" href="./images/favicon32.ico"></link>
-      <link rel="apple-touch-icon" sizes="96x96" href="./images/favicon96.ico"></link>
+      <link rel="apple-touch-icon" sizes="32x32" href="/favicon32.ico"></link>
+      <link rel="apple-touch-icon" sizes="96x96" href="/favicon96.ico"></link>
       <link rel="canonical" href="https://charles-sin.vercel.app"></link>
       <link rel="pingback" href="https://charles-sin.vercel.app"></link>
       <link rel="alternate" href="https://charles-sin.vercel.app" hrefLang="en-us"></link>
