@@ -19,7 +19,7 @@ const Featured = ({ secondary, live, thumnail, code, title, description, tech }:
               layout="fill"
               objectFit="cover"
               quality={100}
-              alt="loading..."
+              alt={thumnail}
             />
 
             <div className="absolute top-0 bottom-0 left-0 right-0 bg-sky-900/50 transition-all duration-300 cursor-pointer hover:opacity-0" />
