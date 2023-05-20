@@ -6,12 +6,16 @@ const uri: string = process.env.MONGODB_URI || "";
 
 export default async function userlog(req: NextApiRequest, res: NextApiResponse) {
   const userAgent = req.headers["user-agent"];
+  const {
+    query: { browserRef },
+  } = req;
+
   try {
     await connect(uri);
     const userLogObject = new userLogModel({
       ua: userAgent || "",
-      referer: req.headers.referer,
-      host: req.headers.host,
+      referer: browserRef || "",
+      host: req.headers.host || "",
       reviewDate: `${new Date()}`,
     });
 
