@@ -4,12 +4,13 @@ import axios from "axios";
 
 import Home from "@modules/Home";
 
-const url = process.env.ENV === "dev" ? `${process.env.DEV_DOMAIN}/api/userlog` : `${process.env.PRD_DOMAIN}/api/userlog`;
+const URL = process.env.ENV === "dev" ? `${process.env.DEV_DOMAIN}/api/userlog` : `${process.env.PRD_DOMAIN}/api/userlog`;
 
 const Page = () => {
   useEffect(() => {
     async function fetchData() {
-      const { data } = await axios.get(url);
+      console.log({ URL });
+      const { data } = await axios.get(URL);
       console.log("Component will be unmount");
       console.log({ data });
     }
