@@ -1,4 +1,4 @@
-import {  connect } from "mongoose";
+import { connect } from "mongoose";
 import type { NextApiRequest, NextApiResponse } from "next";
 import userLogModel from "../../lib/models/userlog.model";
 
@@ -10,6 +10,8 @@ export default async function userlog(req: NextApiRequest, res: NextApiResponse)
     await connect(uri);
     const userLogObject = new userLogModel({
       ua: userAgent || "",
+      referer: req.headers.referer,
+      host: req.headers.host,
       reviewDate: `${new Date()}`,
     });
 
