@@ -4,7 +4,7 @@ import axios from "axios";
 
 import Home from "@modules/Home";
 
-const url = `http://localhost:3000/api/userlog`;
+const url = process.env.ENV === "dev" ? `${process.env.DEV_DOMAIN}/api/userlog` : `${process.env.PRD_DOMAIN}/api/userlog`;
 
 const Page = () => {
   useEffect(() => {
