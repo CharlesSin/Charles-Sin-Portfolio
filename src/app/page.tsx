@@ -11,6 +11,7 @@ const Page = () => {
       const URI = "https://charles-sin.vercel.app/api/userlog";
       
       console.log({ URL });
+      console.log("process.env: " + process.env);
       console.log("process.env.ENV: " + process.env.ENV);
       console.log("process.env.DEV_DOMAIN: " + process.env.DEV_DOMAIN);
       console.log("process.env.PRD_DOMAIN: " + process.env.PRD_DOMAIN);
