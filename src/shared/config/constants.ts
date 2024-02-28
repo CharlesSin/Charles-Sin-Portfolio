@@ -10,6 +10,14 @@ export const navData = ["About", "Experience", "Works", "Contact"];
 // project data
 export const projects: ProjectTypes[] = [
   {
+    title: "ibongda-demo",
+    description: "Works in collaboration with designers",
+    tech: ["HTML", "CSS", "Javascript"],
+    live: "https://ibongda-demo.netlify.app/",
+    thumnail: "ibongda-demo.jpg",
+    featured: true,
+  },
+  {
     title: "Finance Dashboard",
     description: "Build a MERN Finance Dashboard App that has Machine Learning Predictions",
     tech: ["MongoDB", "Expressjs", "React", "Nodejs", "Typescript"],
@@ -26,7 +34,7 @@ export const projects: ProjectTypes[] = [
     code: "https://github.com/CharlesSin/Charles-Sin-Portfolio",
     live: "https://charles-sin.vercel.app/",
     thumnail: "portfolio-v2.jpg",
-    featured: true,
+    featured: false,
   },
   {
     title: "The F2E 4th 1st week Event",
