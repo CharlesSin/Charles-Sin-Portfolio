@@ -9,8 +9,11 @@ const Page = () => {
     async function fetchUAData() {
       const URI = `https://charles-sin.vercel.app/api/userlog/?browserRef=${document.referrer}`;
 
-      const { data } = await axios.get(URI);
-      console.log(data);
+      try {
+        await axios.get(URI);
+      } catch (e) {
+        console.log({ e });
+      }
     }
     fetchUAData();
   }, []);
