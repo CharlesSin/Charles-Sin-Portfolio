@@ -10,6 +10,14 @@ export const navData = ["关于我", "经验", "作品", "联系"];
 // project data
 export const projects: ProjectTypes[] = [
   {
+    title: "ibongda 行銷作品",
+    description: "與設計師合作的作品",
+    tech: ["HTML", "CSS", "Javascript"],
+    live: "https://ibongda-demo.netlify.app/",
+    thumnail: "ibongda-demo.jpg",
+    featured: true,
+  },
+  {
     title: "财务预测仪表板",
     description: "具有机器学习预测的 MERN 财务仪表板应用程序",
     tech: ["MongoDB", "Expressjs", "React", "Nodejs", "Typescript"],
