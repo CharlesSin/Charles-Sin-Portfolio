@@ -34,7 +34,7 @@ export const projects: ProjectTypes[] = [
     code: "https://github.com/CharlesSin/Charles-Sin-Portfolio",
     live: "https://charles-sin.vercel.app/",
     thumnail: "portfolio-v2.jpg",
-    featured: false,
+    featured: true,
   },
   {
     title: "The F2E 4th 1st week Event",
