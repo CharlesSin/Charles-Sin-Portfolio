@@ -12,7 +12,8 @@ export const worked_data: WorkedTypes[] = [
       "整合和优化各种工具和技术，如容器化 Docker、Kubernetes、配置管理 Terraform、Terragrunt 和监控 Datadog、Grafana 以实现自动化和流程改进",
       "提供技术支持和培训，以帮助团队成员更好地理解和利用DevOps流程和工具",
     ],
-    deadline: "六月 2020 - 乃在职",
+    // 乃在职
+    deadline: "六月 2023 - 四月 2024",
     title: "高級工程师",
     company: "原湛有限公司",
     url: "https://caino.ai/",
