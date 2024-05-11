@@ -13,7 +13,7 @@ export const worked_data: WorkedTypes[] = [
       "Provide technical support and training to help team members better understand and leverage DevOps processes and tools",
     ],
     // present
-    deadline: "Jun 23 - Apr 23",
+    deadline: "Jun 23 - Apr 24",
     title: "Senior Engineer",
     company: "Supebtech.asia",
     url: "https://caino.ai/",
