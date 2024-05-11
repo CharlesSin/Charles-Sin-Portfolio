@@ -13,14 +13,14 @@ export const worked_data: WorkedTypes[] = [
       "Provide technical support and training to help team members better understand and leverage DevOps processes and tools",
     ],
     // present
-    deadline: "Jun 20 - Apr 23",
+    deadline: "Jun 23 - Apr 23",
     title: "Senior Engineer",
     company: "Supebtech.asia",
     url: "https://caino.ai/",
   },
   {
     id: 1,
-    label: "Frontend Developer",
+    label: "Frontend",
     description: [
       "Write modern, performant, maintainable code for a diverse array of client and internal projects",
       "Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Socket.io, Next js, React, WordPress, and Netlify",
