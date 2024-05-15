@@ -24,7 +24,7 @@ export const projects: ProjectTypes[] = [
     description: "Short URL Dashboard",
     tech: ["Vite + React", "Axios", "Tailwind CSS"],
     code: "https://gitlab.com/f2e821128/shortener-url-frontend",
-    live: "https://worked-project.netlify.app",
+    live: "https://charles-url-shortener.netlify.app",
     thumnail: "url-shortener.jpg",
     featured: true,
   },
